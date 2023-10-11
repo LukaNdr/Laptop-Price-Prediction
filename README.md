@@ -46,20 +46,20 @@ This repository contains code for predicting laptop prices using both traditiona
 - If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
   
-### Training and Validation Results Visualization
+# Training and Validation Results Visualization
 This section of the project is dedicated to visually representing the training and validation results using images. The code leverages the Matplotlib library to create informative visualizations of the model's performance.
 
 ## Results Visualization
 The primary output of this code is a pair of scatter plots that display the model's predictions in comparison to the actual values. Here's how to interpret these plots:
 
-# Training Results:
+### Training Results:
 
 ![image](https://github.com/LukaNdr/Laptop-Price-Prediction/assets/147658141/e8f9437d-6dce-4d0f-a16b-f6f05778177a)
 
 
 In this scatter plot, each point represents a data point from the training set. The x-axis corresponds to the actual laptop prices, while the y-axis displays the prices predicted by the model during training. The red line represents the ideal scenario where predictions perfectly match actual prices.
 
-# Validation Results:
+### Validation Results:
 
 ![image](https://github.com/LukaNdr/Laptop-Price-Prediction/assets/147658141/81df97a4-8bb0-419f-8e59-da559e55a793)
 
