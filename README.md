@@ -45,6 +45,3 @@ This repository contains code for predicting laptop prices using both traditiona
 
 - If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
----
-
-You can include this README in your GitHub repository by creating a new file named `README.md` in the repository's root directory and copying the text into it. This README provides a brief overview of your project, its dependencies, instructions for running the code, and a section for issues and enhancements, which can be useful for collaboration and documentation.
